@@ -1,18 +1,19 @@
 ## Bug/error being reported:
-<!-- A description of the bug that you are reporting -->
+the same bug is still disturb the gameplay
 
 ## Steps to reproduce:
-<!--
-Optimally an ordered list with the steps needed to reproduce the bug
+go in the ventribird and fly to prwyden
+
 
 ### Example:
-1. Step 1
-2. Step 2
-3. Step 3
+1. finish mission to obtain transmission with paladin danse
+2. follow him to the rooftop and join him ride the ventribird
+3. during the way to go to the prwyden, fps drop to 0 when past into the area mission when trying to find the institute courser chip
 -->
 
 ## Expected result:
-<!-- The result you were expecting -->
+good fps 
 
 ## Actual result:
-<!-- The result that actually happened -->
+stuck in the building forcing me to force close the game.
+my spec is Nvidia Geforce 820m, 8gb ram and intel core inside i5
